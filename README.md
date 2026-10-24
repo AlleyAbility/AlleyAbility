@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlleyAbility
 - 👀 I’m interested in mobile and web applications development 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently open for AI collaboration
 - 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me mrsouth16@gmail.com
 
